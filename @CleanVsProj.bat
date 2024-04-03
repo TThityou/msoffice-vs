@@ -11,6 +11,7 @@ del /s /q "bin\*.exp"
 del /s /q "bin\*.iobj"
 del /s /q "bin\*.ipdb"
 del /s /q "bin\*.pdb"
+del /s /q "bin\*.ilk"
 del /s /q *.sdf
 
 pause
